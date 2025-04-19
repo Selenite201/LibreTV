@@ -95,7 +95,7 @@ function initAPICheckboxes() {
     });
     
     // 仅在隐藏设置为false时添加成人API组
-    if (!HIDE_BUILTIN_ADULT_APIS) {
+    //if (!HIDE_BUILTIN_ADULT_APIS) {
         // 添加成人API组标题
         const adultTitle = document.createElement('div');
         adultTitle.className = 'api-group-title adult';
