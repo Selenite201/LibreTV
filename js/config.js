@@ -26,6 +26,36 @@ const API_SITES = {
         name: '黑木耳',
         detail: 'https://heimuer.tv'
     },
+    xl: {
+        api: 'https://api.xinlangapi.com',
+        name: '新浪影视',
+        detail: 'https://api.xinlangapi.com'
+    },
+    hy: {
+        api: 'https://www.huyaapi.com',
+        name: '虎牙影视',
+        detail: 'https://www.huyaapi.com'
+    },
+    lz: {
+        api: 'https://cj.lziapi.com',
+        name: '量子影视',
+        detail: 'https://cj.lziapi.com'
+    },
+    jy: {
+        api: 'https://jyzyapi.com',
+        name: '金鹰影视',
+        detail: 'https://jyzyapi.com'
+    },
+    hn: {
+        api: 'www.hongniuzy2.com',
+        name: '红牛影视',
+        detail: 'www.hongniuzy2.com'
+    },
+    fhwb: {
+        api: 'https://cjhwba.com',
+        name: '华为吧影视',
+        detail: 'https://cjhwba.com'
+    },
     ffzy: {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
