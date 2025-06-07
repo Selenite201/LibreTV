@@ -337,7 +337,7 @@
             }
 
             // 设置页面标题
-            document.title = currentVideoTitle + ' - LibreTV播放器';
+            document.title = currentVideoTitle + ' - 一般路过TV播放器';
             document.getElementById('videoTitle').textContent = currentVideoTitle;
             
             // 初始化播放器
@@ -515,7 +515,7 @@
                 chromecast: true,                // 启用Chromecast投屏功能
                 contextmenu: [                   // 自定义右键菜单
                     {
-                        text: '关于 LibreTV',
+                        text: '关于 一般路过TV',
                         link: 'https://github.com/bestzwei/LibreTV'
                     },
                     {
@@ -528,7 +528,7 @@
                 video: {
                     url: videoUrl,
                     type: 'hls',
-                    pic: 'https://img.picgo.net/2025/04/12/image362e7d38b4af4a74.png', // 设置视频封面图
+                    pic: 'https://selenitepic.top/file/1749299055193_TV.png', // 设置视频封面图
                     customType: {
                         hls: function(video, player) {
                             // 清理之前的HLS实例
