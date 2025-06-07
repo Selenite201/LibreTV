@@ -51,11 +51,6 @@ const API_SITES = {
         name: '红牛影视',
         detail: 'www.hongniuzy2.com'
     },
-    fhwb: {
-        api: 'https://cjhwba.com',
-        name: '华为吧影视',
-        detail: 'https://cjhwba.com'
-    },
     ffzy: {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
