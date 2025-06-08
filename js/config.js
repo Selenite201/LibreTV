@@ -31,20 +31,25 @@ const API_SITES = {
         name: '新浪影视',
         detail: 'https://api.xinlangapi.com'
     },
-    hy: {
-        api: 'https://www.huyaapi.com',
-        name: '虎牙影视',
-        detail: 'https://www.huyaapi.com'
+    yt: {
+        api: 'https://apiyutu.com',
+        name: '玉兔影视',
+        detail: 'https://apiyutu.com'
+    },
+    xb: {
+        api: 'https://xingba111.com',
+        name: '杏吧影视',
+        detail: 'https://xingba111.com'
     },
     lz: {
         api: 'https://cj.lziapi.com',
         name: '量子影视',
         detail: 'https://cj.lziapi.com'
     },
-    jy: {
-        api: 'https://jyzyapi.com',
-        name: '金鹰影视',
-        detail: 'https://jyzyapi.com'
+    mt: {
+        api: 'https://caiji.maotaizy.cc',
+        name: '茅台影视',
+        detail: 'https://caiji.maotaizy.cc'
     },
     hn: {
         api: 'www.hongniuzy2.com',
